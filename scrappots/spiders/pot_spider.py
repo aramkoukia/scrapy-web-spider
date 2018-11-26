@@ -2,8 +2,8 @@ import scrapy
 
 filename = 'potinfo.txt'
 
-class potSpider(scrapy.Spider):
-    name: 'pot_spider'
+class PotSpider(scrapy.Spider):
+    name = "pot_spider"
 
     def start_requests(self):
         urls= [
@@ -15,7 +15,7 @@ class potSpider(scrapy.Spider):
             yield scrapy.Request(url= url, callback=self.parse)
 
     def parse(self, response):
-        pot_list = response.css('').extract()
+        pot_list = response.css('div.product-tile__info > h4 *::text').extract()
 
         with open(filename, 'a+') as f:
             for pot_title in pot_list:

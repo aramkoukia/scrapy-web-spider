@@ -1,0 +1,26 @@
+<h4 class="product-tile__vendor">Hoss Glass</h4>
+<h4 class="product-tile__vendor">Janey's</h4>
+<h4 class="product-tile__vendor">Janey's</h4>
+<h4 class="product-tile__vendor">Famous X</h4>
+<h4 class="product-tile__vendor">Famous X</h4>
+<h4 class="product-tile__vendor">Crown Cannabis Canada</h4>
+<h4 class="product-tile__vendor">RYOT</h4>
+<h4 class="product-tile__vendor">Marley Natural</h4>
+<h4 class="product-tile__vendor">Famous X</h4>
+<h4 class="product-tile__vendor">Famous X</h4>
+<h4 class="product-tile__vendor">Grav Labs</h4>
+<h4 class="product-tile__vendor">Marley Natural</h4>
+<h4 class="product-tile__vendor">Hoss Glass</h4>
+Hoss Glass
+Janey's
+Janey's
+Famous X
+Famous X
+Crown Cannabis Canada
+RYOT
+Marley Natural
+Famous X
+Famous X
+Grav Labs
+Marley Natural
+Hoss Glass
