@@ -3,34 +3,22 @@ from scrapy import Spider
 from scrapy.selector import Selector
 from scrappots.items import ProductItem
 
-filename = 'potinfo.txt'
-
 class PotSpider(scrapy.Spider):
     name = "pot_spider"
 
     def start_requests(self):
         urls= [
-            'https://ocs.ca/collections/bongs?page=1',
-            'https://ocs.ca/collections/bongs?page=2',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=1',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=2',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=3',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=4',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=5',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=6',
-            'https://ocs.ca/collections/dried-flower-cannabis?page=7'
-            'https://ocs.ca/collections/pre-rolled?page=1',
-            'https://ocs.ca/collections/pre-rolled?page=2',
-            'https://ocs.ca/collections/oils-and-capsules?page=1',
-            'https://ocs.ca/collections/oils-and-capsules?page=2'
+            'https://www.auroramj.com/strains/'
         ]
 
         for url in urls:
             yield scrapy.Request(url= url, callback=self.parse)
 
+ # data-name="Aurora Cloud CBD" data-thc="~20" data-cbd="~550" data-category="Cannabis Oil" data-type="Hybrid"
+
     def parse(self, response):
         # product_list = response.css('div.product-tile__info > h4 *::text').extract()
-        product_list = response.css('.product-tile')
+        product_list = response.css('#container')
         for product in product_list:
             item = ProductItem()
             item['title'] = product.css('.product-tile__title::text').extract_first().strip()
