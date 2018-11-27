@@ -1,26 +1,104 @@
-<h4 class="product-tile__vendor">Hoss Glass</h4>
-<h4 class="product-tile__vendor">Janey's</h4>
-<h4 class="product-tile__vendor">Janey's</h4>
-<h4 class="product-tile__vendor">Famous X</h4>
-<h4 class="product-tile__vendor">Famous X</h4>
-<h4 class="product-tile__vendor">Crown Cannabis Canada</h4>
-<h4 class="product-tile__vendor">RYOT</h4>
-<h4 class="product-tile__vendor">Marley Natural</h4>
-<h4 class="product-tile__vendor">Famous X</h4>
-<h4 class="product-tile__vendor">Famous X</h4>
-<h4 class="product-tile__vendor">Grav Labs</h4>
-<h4 class="product-tile__vendor">Marley Natural</h4>
-<h4 class="product-tile__vendor">Hoss Glass</h4>
-Hoss Glass
-Janey's
-Janey's
-Famous X
-Famous X
-Crown Cannabis Canada
-RYOT
-Marley Natural
-Famous X
-Famous X
-Grav Labs
-Marley Natural
-Hoss Glass
+18” Full Colour Beaker,Hoss Glass,
+
+
+
+
+
+
+$160.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200022-682527106726-a1n0-c01_large.png?v=1539353616
+Universal Bowl,Janey's,
+
+
+
+
+
+
+$7.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200102-627843483472-a1c0_large.png?v=1540911578
+Universal Stem,Janey's,
+
+
+
+
+
+
+$7.95,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200104-627843483465-a1c0_large.png?v=1540911588
+Sherlock Pipe,Famous X,
+
+
+
+
+
+
+$19.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200004-628178003472-a1c0_large.png?v=1540911115
+Handheld Straight Water Pipe,Famous X,
+
+
+
+
+
+
+$22.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200003-628178003533-a1c0_large.png?v=1540302599
+Smoking Pipe,Crown Cannabis Canada,
+
+
+
+
+
+
+$30.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200108-628250971026-a1c0_large.png?v=1539307522
+Pocket-Sized Taster Box with Dugout,RYOT,
+
+
+
+
+
+
+$37.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200027-793574979420-a1c0-c01_large.png?v=1539383877
+Small Taster,Marley Natural,
+
+
+
+
+
+
+$42.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200091-815198020088-a1c0_large.png?v=1540911519
+12" Straight Tube Water Pipe,Famous X,
+
+
+
+
+
+
+$45.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200001-628178003595-a1c0_large.png?v=1539731157
+12" Beaker Style Water Pipe,Famous X,
+
+
+
+
+
+
+$45.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200002-628178003588-a1c0_large.png?v=1539731162
+6” Upright Bubbler,Grav Labs,
+
+
+
+
+
+
+$66.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200021-011711334520-a1n0-c01_large.png?v=1539463746
+Spoon Pipe,Marley Natural,
+
+
+
+
+
+
+$78.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200089-815198020101-a1c0-c01_large.png?v=1539710891
+18” Full Colour Straight Tube,Hoss Glass,
+
+
+
+
+
+
+$160.00,//cdn.shopify.com/s/files/1/2636/1928/products/http-52-60-121-34-upload-200023-682527106511-a1n0-c01_large.png?v=1539383850
